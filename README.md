@@ -30,7 +30,7 @@ Este sistema, desenvolvido em Java, permite configurar e agendar backups automá
 - Registro de Log: Cada operação de backup é registrada em um arquivo de log (backup_log.txt).
 
 ### Como Usar
-1. Clique no executavel
+1. Clique no executavel que se encontra dentro da pasta "Executavel do Sistema" tem o arquivo .jar e o arquivo .exe
 2. Uma janela será aberta. Preencha os campos "Local de Origem", "Local de Backup" e "Intervalo de Backup (horas)".
 3. Clique em "Selecionar" ao lado de "Local de Origem" e "Local de Backup" para escolher os diretórios.
 4. Clique em "Confirmar" para iniciar o agendamento do backup.
